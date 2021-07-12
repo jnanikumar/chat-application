@@ -1,0 +1,32 @@
+.message_box {
+  border: 2px solid whitesmoke;
+  margin-top: 5px;
+  
+  margin-bottom: 5px;
+  /* margin-left:5px; */
+  /* background-color:/; */
+  border-radius: 10px;
+  max-height:400px;
+  min-width:60px;
+  /* position:relative */
+  
+}
+
+.msg_from{
+  /* position:absolute; */
+  /* top:100%; */
+  /* margin-left:30vw; */
+  padding:3px;
+  font-size:10px;
+  color:red;
+  overflow-x:hidden;
+}
+
+
+.delete_btn{
+  
+  font-size:6px;
+  background-color: transparent;
+  border:none;
+  color:blueviolet;
+}

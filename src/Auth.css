@@ -1,0 +1,23 @@
+.form-group {
+    max-width: 80%;
+    margin-left: 10%;
+    width:500px;
+  }
+  
+  .button-group {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
+  .main {
+    justify-content: center;
+    margin-top: 30vh;
+  }
+  
+  
+  

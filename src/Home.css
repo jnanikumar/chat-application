@@ -1,0 +1,42 @@
+.header_row {
+  align-items: center;
+  /* justify-content: space-between; */
+
+  border: 1px solid whitesmoke;
+  font-family: "Otomanopee One", sans-serif;
+  font-size: 40px;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.footer_row {
+  position: fixed;
+  top: 100vh;
+  transform: translate(-0%, -170%);
+  z-index: 100;
+  border-top: 1px solid whitesmoke;
+  font-family: "Otomanopee One", sans-serif;
+}
+
+.chat_box {
+  min-height: 30vh;
+  max-height: 80vh;
+  overflow-y: scroll;
+  /* display: flex; */
+  /* flex-direction: column; */
+
+ 
+}
+
+
+.send_btn{
+    width:20vw;
+}
+
+
+input{
+    max-width:80vw;
+}
